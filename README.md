@@ -1,2 +1,2 @@
 # Kirkly
-A feedback app visitors.
+A feedback app for visitors.
