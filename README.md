@@ -1,2 +1,2 @@
 # Kirkly
-A feedback app for new members at NCF.
+A feedback app visitors.
